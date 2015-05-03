@@ -1,0 +1,24 @@
+[ 2015-05-03T19:14:16+08:00 ] 192.168.8.61 /weiphp/install.php?m=Install&c=Install&a=step2
+ERR: Access denied for user 'better'@'localhost' (using password: YES)
+
+[ 2015-05-03T19:14:48+08:00 ] 192.168.8.61 /weiphp/install.php?m=Install&c=Install&a=step2
+ERR: Access denied for user 'better'@'localhost' (using password: NO)
+
+[ 2015-05-03T19:15:53+08:00 ] 192.168.8.61 /weiphp/install.php?m=Install&c=Install&a=step2
+ERR: Access denied for user 'better'@'localhost' (using password: NO)
+
+[ 2015-05-03T19:18:07+08:00 ] 192.168.8.61 /weiphp/install.php?m=Install&c=Install&a=step2
+ERR: Access denied for user 'root'@'localhost' (using password: YES)
+
+[ 2015-05-03T19:19:36+08:00 ] 192.168.8.61 /weiphp/install.php?m=Install&c=Install&a=step2
+ERR: Access denied for user 'better'@'localhost' (using password: YES)
+
+[ 2015-05-03T19:27:08+08:00 ] 192.168.8.61 /weiphp/install.php?m=Install&c=Install&a=step2
+ERR: Access denied for user 'better'@'localhost' (using password: YES)
+
+[ 2015-05-03T19:29:45+08:00 ] 192.168.8.61 /weiphp/install.php?m=Install&c=Install&a=step2
+ERR: Access denied for user 'better'@'localhost' (using password: YES)
+
+[ 2015-05-03T19:31:40+08:00 ] 192.168.8.61 /weiphp/install.php?m=Install&c=Install&a=step2
+ERR: Access denied for user 'better'@'localhost' (using password: YES)
+
